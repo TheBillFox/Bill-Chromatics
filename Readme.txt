@@ -3,5 +3,4 @@ https://github.com/d4rkwinged
 
 Godified tbizzle and Godified Jenny not my chromatics, i just godified their
 
-<p
-style="font-size:25px; color:#ff0000">bruh</p>
+Real date create of Yellow BillShagg Chromatic - 22 February 2023
