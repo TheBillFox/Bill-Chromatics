@@ -14,3 +14,5 @@ Real date create of Purple BillShagg Chromatic - February 13, 2024
 Real date create of Brown BillShagg Chromatic - March 30, 2024
 
 Real date create of Aquamarine BillShagg Chromatic - December 27, 2024
+
+Real date create of Light-Green BillShagg Chromatic - August 19, 2025
